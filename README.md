@@ -1,12 +1,13 @@
 # Topic-Model-Visualization-With-IPython
 
+The existing approaches to topic models visualization have been analyzed, and a system, which allows choosing data source for topic models, changing modeling parameters and visualizing the result of topic modeling with IPython has been developed. The example of topic model visualization has been built using the SCTM-ru corpus of original news text.
 
 http://www.cims.ru/ - text corpora
 
 http://www.cims.ru/FullWikiNews.zip
 
 
-License
+# License
 
 BigARTM is released under New BSD License that allowes unlimited redistribution for any purpose (even for commercial use) as long as its copyright notices and the license’s disclaimers of warranty are maintained.
 
